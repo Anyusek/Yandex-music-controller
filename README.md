@@ -39,7 +39,7 @@
 ```bash
 git clone https://github.com/Anyusek/Yandex-music-controller.git
 cd Yandex-music-controller
-python main.py
+python yandex_music_controller.py
 ```
 ## 📦 Зависимости
 
