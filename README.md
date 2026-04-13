@@ -74,9 +74,6 @@ pip install -r requirements.txt
 * [ ] Разработка контроллера на Mac в ближайщем будущем
 * [ ] Сборка в .exe для Windows
 
-## 👨‍💻 Автор
-
-Разработано с ❤️ Anyusek
 
 ## 🤝 Обратная связь
 
@@ -84,4 +81,8 @@ pip install -r requirements.txt
 
 *	Telegram: @anyusek
 *	VK: @anyusek (https://vk.com/anyusek)
-*	MAX: https://max.ru/u/f9LHodD0cOJWoqJyV49iP9Xd-AhGVIP2DDCrlU77-ERzrRKGaMeFtnXXbvU 
+*	MAX: https://max.ru/u/f9LHodD0cOJWoqJyV49iP9Xd-AhGVIP2DDCrlU77-ERzrRKGaMeFtnXXbvU
+
+## 👨‍💻 Автор
+
+Разработано с ❤️ Anyusek
