@@ -3,3 +3,4 @@ pywin32
 keyboard
 pystray
 Pillow
+tkinterdnd2
